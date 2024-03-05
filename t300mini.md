@@ -24,7 +24,6 @@ Main()->sub_40C564()->start_single_service()->start_workmode()->start_lan().
 ```html
 POST /apply.cgi HTTP/1.1
 Host: 192.168.10.1
-Content-Length: 697
 Cache-Control: max-age=0
 Authorization: Basic YWRtaW46YWRtaW4=
 Upgrade-Insecure-Requests: 1
@@ -60,7 +59,6 @@ Main()->sub_40C564()->start_single_service()->start_workmode()->start_lan().
 ```html
 POST /apply.cgi HTTP/1.1
 Host: 192.168.10.1
-Content-Length: 697
 Cache-Control: max-age=0
 Authorization: Basic YWRtaW46YWRtaW4=
 Upgrade-Insecure-Requests: 1
